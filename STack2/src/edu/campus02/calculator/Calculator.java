@@ -1,6 +1,5 @@
 package edu.campus02.calculator;
 
-// new Comment addede by Martin Vogt
 
 public interface Calculator {
 
