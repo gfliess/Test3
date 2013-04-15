@@ -7,9 +7,7 @@ public interface Calculator {
 	enum Operation {
 		add, sub, mul, div
 	};
-	
-	//test
-	
+
 	void push(double value);
 	
 	double pop() throws CalculatorException;
